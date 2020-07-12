@@ -1,6 +1,6 @@
 # Redux-article-Redux
 # 
-This is source code provided at the end of the article 'How To Refactor Your React App To Use Redux'.
+This repo contains the source code the link to which is provided at the end of the article 'How To Refactor Your React App To Use Redux'.
 This project is Redux version of creating a simple React App.
 
 # Technologies
